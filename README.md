@@ -33,6 +33,12 @@ export default {
 * ensure tailwind is being compiled in index.css and output as index-output.css use `yarn tailwind`
 * `yarn dev` to see latest code served 
 
+## Styles use Tailwind and Material UI
+// * to use tailwind class prefix them with 'tw-' as specified in tailwind.config.js prefix
+// (https://sandygoody.medium.com/vite-twin-macro-d27a5f89df06)
+// https://webkul.com/blog/tailwind-css-material-ui-with-next-js/#:~:text=By%20combining%20the%20utility%2Dfirst,unique%20approach%20to%20styling%20websites.
+// https://mui.com/base-ui/guides/working-with-tailwind-css/
+
 
 ## Folder Structure: group files by feature
 Based on reading (https://profy.dev/article/react-folder-structure)
